@@ -1,0 +1,145 @@
+#export_csv_table_length select {padding: 2px 24px 2px 4px;}
+
+#wpfooter {
+	position: relative;
+}
+
+#main_datatable_table {
+	padding-top: 40px;
+}
+
+.custom_filter tr {
+	width: 47%;
+	float: left;
+	margin-right: 20px;
+}
+
+.custom_filter {
+	margin-bottom: 25px;
+	margin-top: 15px;
+}
+
+.custom_filter tr td:first-child {
+	width: 120px;
+	padding-left: 0;
+}
+
+#export_csv_table_length {
+	text-transform: capitalize;
+}
+
+.dt-buttons {
+	margin-left: 35px;
+}
+
+#export_csv_table_length select {
+	padding: 3px 25px;
+}
+
+.dt-buttons .dt-button.buttons-csv.buttons-html5 {
+	border-radius: 3px;
+	padding: 6px 20px;
+}
+
+#export_csv_table {
+	padding-top: 5px;
+	border: none;
+}
+
+#export_csv_table tr th {
+	max-width: 200px !important;
+}
+
+#export_csv_table tr th {
+	font-size: 15px;
+	background-color: #f1f1f1;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 100px !important;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.cus_vendor_noti form p {
+	width: 25%;
+	float: left;
+}
+
+.submit_noti {
+	width: 100%;
+	clear: both;
+}
+
+.submit_noti input[type="submit"] {
+	background: #e84242;
+	border: none;
+	color: #fff;
+	padding: 15px 20px;
+	border-radius: 50px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-family: 'Roboto';
+}
+
+.cus_vendor_noti form .submit_noti input[type="submit"], #wpbody-content .btn.btn-primary, #div_header_column_edit input[type="submit"], #header_column_edit {
+	background: #e84242;
+	border: none;
+	color: #fff;
+	padding: 10px 22px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-family: 'Roboto';
+	font-size: 13px;
+	cursor: pointer;
+}
+#dynamic_field td {margin-left: 120px;display: block;}
+#my-shedule-emails label {margin-top: 7px;}
+#my-shedule-emails {clear: both;}
+#d-schedule-1 {float: left;margin-top: -23px;margin-bottom: 30px;}
+#my-shedule-days_times {margin-top: 40px;}
+.wc-oe-header, #my-shedule-emails label {width: 120px;float: left;font-size: 14px;font-weight: 600;letter-spacing: 0.2px;}
+.my-block_title label {font-size: 17px;	display: inline-block;margin-bottom: 8px;}
+.cus_vendor_noti form .submit_noti input[type="submit"]:hover, #wpbody-content .btn.btn-primary:hover, #div_header_column_edit input[type="submit"]:hover, #header_column_edit:hover {outline: 1px dashed #fff;outline-offset: -4px;transition: all 0.2s;}
+.input_fields_wrap div {margin-bottom: 30px;}
+.add_field_button, .remove_rule, #add {background: #e84242;border: none;padding: 6px 7px 7px;color: #fff;font-weight: 600;text-transform: uppercase;border-radius: 3px;font-size: 13px;	letter-spacing: 0.5px;cursor: pointer;text-decoration: none;}
+.remove_rule:hover {color: #fff;}
+.form-table .input_fields_wrap select, .form-table .input_fields_wrap input{padding: 10px;box-shadow: 0px 4px 16px rgba(0,0,0,0.08);border-color: rgba(0,0,0,0.2);margin-right: 15px;}
+#custom_shipping_city, .custom_sedule_job {border: 2px dashed rgba(0,0,0,0.3);margin-top: 50px;margin-right: 50px;padding: 10px 30px 40px;border-radius: 5px;margin-left: 20px;	background: rgba(255,255,255,0.1);}
+.custom_sedule_job {min-height: 1000px;height: auto;}
+#custom_shipping_city h2, .cus_vendor_noti h3, .custom_sedule_job h3 {font-size: 30px;}
+#custom_shipping_city > p {font-size: 17px;margin-top: -10px;margin-bottom: 40px;}
+.select2-selection__choice__remove {border-right: 0 !important;}
+.select2-selection__choice__remove:hover {background: transparent !important;}
+.select2-selection__choice__remove {border-right: 0 !important;margin-top: 6px;}
+.add_field_button {margin-bottom: 20px;}
+.remove_rule {padding-top: 13px;padding-bottom: 16px;padding-left: 12px;padding-right: 12px;}
+.post-type-shop_order .wp-list-table .column-order_number {width: 10ch !important;}
+.post-type-shop_order .wp-list-table .column-order_status {width: 5ch !important;}
+.post-type-shop_order .wp-list-table .column-order_total {width: 4ch !important;text-align: left !important;}
+.post-type-shop_order .wp-list-table .column-order_date {width: 3ch !important;}
+.post-type-shop_order .wp-list-table .column-order_total a span {float: left !important;}
+.vendor_order_status.column-vendor_order_status p span {margin-left: 10px;}
+#div_header_column_edit input[type="text"] {width: 32%;	float: left;margin-top: 10px;margin-bottom: 15px;margin-right: 1.2%;padding: 10px;}
+#div_header_column_edit {margin-bottom: 60px;background: #f1f1f1;padding: 15px 0px 10px 15px;margin-top: 24px;border-radius: 5px;}
+#min, #max {padding: 6px;}
+#export_csv_table_filter {margin-top: -10px;}
+#div_header_column_edit p:first-child {	margin-top: 16px;}
+#datatable_table {margin-top: 50px;border-top: 1px solid rgba(0,0,0,0.1) !important;padding-top: 30px;}
+#dynamic_field input {padding: 8px 15px 8px 5px;margin-right: 0;margin-left: -4px;border-top-right-radius: 0;border-bottom-right-radius: 0;width: 230px;margin-top: 14px;}
+#dynamic_field .btn_remove {background: #e84242;color: #fff;padding: 12.5px 20px;border-radius: 0px 4px 4px 0px;font-size: 14px;font-weight: 600;border: 1px solid #e84242;
+	cursor: pointer;}
+.days-span-wrapper {width: 100px;display: inline-block;}
+.time-span-wrapper input {padding: 5px 15px 5px 5px;width: 130px;}
+.days-span-wrapper input {margin-left: 10px;}
+.day-txt {width: 30px;display: inline-block;}
+.days-span-wrapper, .time-span-wrapper {font-size: 14px;}
+#sb-btn-wrap {margin-top: 50px;}
+
+@media(max-width:480px){
+	.cus_vendor_noti form p {
+	width: 50%;
+}
+}
